@@ -90,7 +90,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://github.com/Ayyanaruto/Ayyanaruto/blob/ec46e74589976c8c3bb6ba4e2f9c3cf77ee304b0/STATS.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
