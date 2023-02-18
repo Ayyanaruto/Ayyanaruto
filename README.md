@@ -1,5 +1,5 @@
 #
-<h1 align="center"><b>Hi , I'm Ayyan Shaikh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Ayyan Shaikh </b> <img src="https://github.com/Ayyanaruto/Ayyanaruto/blob/dc05d68a102fe4e4e1fbd79e866486b44453a27b/HAND.gif" width="35"></h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&pause=1000&color=A9A5FF&center=true&width=450&lines=Welcome+to+My+Github+Profile;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
