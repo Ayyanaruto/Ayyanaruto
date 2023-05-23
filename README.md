@@ -19,7 +19,7 @@
 - Watching anime at spare times
 - Currently learning Web Development by Self
 - Personal Projects [CraftingCrew](https://www.craftingcrew.online/), [YelpCamp](https://yelpcamp-7pea.onrender.com)
-- I’m currently open for an Internship, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Internship, this is [my resume]
 
 <br><br>
 
