@@ -86,18 +86,7 @@
 <br>
 
 -----
-
-<br>
-
-
-## <img src="https://github.com/Ayyanaruto/Ayyanaruto/blob/ec46e74589976c8c3bb6ba4e2f9c3cf77ee304b0/STATS.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Ayyanaruto/">
-  <img src="https://streak-stats.demolab.com?user=Ayyanaruto&theme=nightowl&hide_border=true&border_radius=4.8" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyanaruto&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Ayyannaruto"/>
+&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Ayyannaruto"/>
 
 </a>
 </div>
