@@ -55,10 +55,7 @@
 ![EXPRESS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
     
 <br>
-	
-- **Database**:
-
-    ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+white)
 
     
 <br>
