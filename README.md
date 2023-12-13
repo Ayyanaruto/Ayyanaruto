@@ -18,7 +18,7 @@
 - Student of Computer Science 
 - Watching anime at spare times
 - Currently learning Web Development by Self
-- Personal Projects [CraftingCrew](https://www.craftingcrew.online/), [YelpCamp](https://yelpcamp-7pea.onrender.com)
+- Personal Projects [Bookchat](https://www.myssterybox.in), [Emaily](https://emaily-kw7u.onrender.com/), [CraftingCrew](https://craftingcrew.onrender.com) [YelpCamp](https://yelpcamp-7pea.onrender.com/)
 - I’m currently open for an Internship, this is [my resume]
 
 <br><br>
