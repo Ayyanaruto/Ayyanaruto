@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&pause=1000&color=A9A5FF&center=true&width=450&lines=Welcome+to+My+Github+Profile;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
 <br>
 
-
+[![An image of @ayyanaruto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayyanaruto)](https://holopin.io/@ayyanaruto)
 
 	
 ## <picture><img src ="https://github.com/Ayyanaruto/Ayyanaruto/blob/ee556c177c9ae3adb9d8a03a471091e746c3bcbd/about_me.gif" width = 50px></picture> **About me**
