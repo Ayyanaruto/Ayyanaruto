@@ -1,585 +1,211 @@
+# 🎸 AYYANARUTO'S TECHNO-FUNK UNIVERSE 🚀
+
 <div align="center">
-  <img src="https://placeholder.svg?height=150&width=150&text=🎧" alt="Lo-Fi Beats" style="border-radius:50%; border:3px solid #9370DB; box-shadow: 0 0 15px #7b68ee;"/>
   
-  # 💜 Purple Haze Lo-Fi 💜
-  
-  <p align="center">
-    <em>Coding in the twilight hours, where creativity flows with the beat</em>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/mood-chillax-9370DB?style=for-the-badge" alt="Mood: Chillax"/>
-    <img src="https://img.shields.io/badge/vibes-immaculate-8A2BE2?style=for-the-badge" alt="Vibes: Immaculate"/>
-    <img src="https://img.shields.io/badge/status-coding_after_midnight-6A5ACD?style=for-the-badge" alt="Status: Coding After Midnight"/>
-  </p>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7008F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+Extraordinaire;Code+Architect+%26+Digital+Dreamweaver;Welcome+to+my+Technicolor+Code+Carnival!)
+
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
-      <img src="https://placeholder.svg?height=5&width=100&text=" alt="" />
-      <br>
-      <sup><em>Now Playing: Twilight Coding Session - Track 03</em></sup>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![Website Badge](https://img.shields.io/badge/Portfolio-3FE669?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+  [![GitHub followers](https://img.shields.io/github/followers/Ayyanaruto?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=FF00FF)](https://github.com/Ayyanaruto)
 
-<details>
-<summary><b>🎧 About Me: The Producer</b></summary>
-<br>
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="60%" valign="top">
-      <blockquote style="border-left: 4px solid #9370DB; padding-left: 16px; color: #A28ACB;">
-        <p>In the quiet hours when the world sleeps, my code comes alive. Each keystroke is a beat, each function a melody, creating digital symphonies in the soft glow of my monitor.</p>
-      </blockquote>
-      <p>I craft <b><span style="color: #9370DB;">experiences</span></b> through code, blending technology and creativity like a lo-fi producer blends samples and beats. My development philosophy is simple: <i>create with purpose, refine with passion, deploy with confidence.</i></p>
-      <p>When I'm not immersed in code, you'll find me collecting vinyl records, exploring new coffee shops, or sketching in my journal—all while lo-fi beats provide the perfect soundtrack.</p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <table width="100%" border="0" cellspacing="0" cellpadding="10" style="background: rgba(147, 112, 219, 0.1); border-radius: 8px;">
-        <tr>
-          <td align="center">
-            <h3 style="margin: 0; color: #9370DB;">Current Mood</h3>
-            <br>
-            <kbd>⏮️</kbd> <kbd>⏯️</kbd> <kbd>⏭️</kbd>
-            <br><br>
-            <div style="width: 100%; height: 20px; background: rgba(147, 112, 219, 0.2); border-radius: 10px; overflow: hidden;">
-              <div style="width: 65%; height: 100%; background: linear-gradient(to right, #9370DB, #8A2BE2); border-radius: 10px;"></div>
-            </div>
-            <br>
-            <small><em>65% through this coding session</em></small>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-<summary><b>🎹 Skills: The Instruments</b></summary>
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td colspan="2">
-      <h3 style="color: #9370DB; border-bottom: 1px solid #9370DB; padding-bottom: 5px;">Frontend Melodies</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="200px">JavaScript</td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td style="background: linear-gradient(to right, #9370DB 90%, rgba(147, 112, 219, 0.2) 90%); height: 10px; border-radius: 5px;"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>React</td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td style="background: linear-gradient(to right, #9370DB 85%, rgba(147, 112, 219, 0.2) 85%); height: 10px; border-radius: 5px;"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>CSS/SCSS</td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td style="background: linear-gradient(to right, #9370DB 80%, rgba(147, 112, 219, 0.2) 80%); height: 10px; border-radius: 5px;"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 style="color: #9370DB; border-bottom: 1px solid #9370DB; padding-bottom: 5px;">Backend Rhythms</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>Node.js</td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td style="background: linear-gradient(to right, #9370DB 88%, rgba(147, 112, 219, 0.2) 88%); height: 10px; border-radius: 5px;"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td style="background: linear-gradient(to right, #9370DB 75%, rgba(147, 112, 219, 0.2) 75%); height: 10px; border-radius: 5px;"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>SQL</td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td style="background: linear-gradient(to right, #9370DB 82%, rgba(147, 112, 219, 0.2) 82%); height: 10px; border-radius: 5px;"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 style="color: #9370DB; border-bottom: 1px solid #9370DB; padding-bottom: 5px;">DevOps Basslines</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>Docker</td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td style="background: linear-gradient(to right, #9370DB 70%, rgba(147, 112, 219, 0.2) 70%); height: 10px; border-radius: 5px;"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>CI/CD</td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td style="background: linear-gradient(to right, #9370DB 78%, rgba(147, 112, 219, 0.2) 78%); height: 10px; border-radius: 5px;"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>AWS</td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td style="background: linear-gradient(to right, #9370DB 65%, rgba(147, 112, 219, 0.2) 65%); height: 10px; border-radius: 5px;"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-<summary><b>💿 Projects: The Vinyl Collection</b></summary>
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="100%" style="padding: 16px; background: rgba(147, 112, 219, 0.1); border-radius: 8px; border-left: 4px solid #9370DB;">
-      <h3 style="margin-top: 0; color: #8A2BE2;">Twilight Coder</h3>
-      <p>A VS Code theme inspired by lo-fi aesthetics and late-night coding sessions, featuring a carefully crafted purple color palette that's easy on the eyes.</p>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td>
-            <ul style="list-style-type: none; padding-left: 0;">
-              <li style="margin-bottom: 8px;">♪ Custom syntax highlighting optimized for night sessions</li>
-              <li style="margin-bottom: 8px;">♪ Subtle animations for cursor and selection</li>
-              <li style="margin-bottom: 8px;">♪ Matching terminal and UI components</li>
-            </ul>
-          </td>
-          <td align="right">
-            <img src="https://placeholder.svg?height=80&width=120&text=Preview" alt="Project Preview" style="border-radius: 4px; border: 1px solid #9370DB;"/>
-          </td>
-        </tr>
-      </table>
-      <div>
-        <span style="display: inline-block; padding: 3px 8px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 12px; margin-right: 5px;">VS Code</span>
-        <span style="display: inline-block; padding: 3px 8px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 12px; margin-right: 5px;">Theme</span>
-        <span style="display: inline-block; padding: 3px 8px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 12px;">Design</span>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="100%" style="padding: 16px; background: rgba(147, 112, 219, 0.1); border-radius: 8px; border-left: 4px solid #9370DB;">
-      <h3 style="margin-top: 0; color: #8A2BE2;">Amethyst Analytics</h3>
-      <p>A dashboard for visualizing personal productivity data with a soothing purple interface that makes data analysis feel like a lo-fi experience.</p>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td>
-            <ul style="list-style-type: none; padding-left: 0;">
-              <li style="margin-bottom: 8px;">♪ Custom visualization components</li>
-              <li style="margin-bottom: 8px;">♪ Time tracking with pomodoro integration</li>
-              <li style="margin-bottom: 8px;">♪ Mood and productivity correlation analysis</li>
-            </ul>
-          </td>
-          <td align="right">
-            <img src="https://placeholder.svg?height=80&width=120&text=Preview" alt="Project Preview" style="border-radius: 4px; border: 1px solid #9370DB;"/>
-          </td>
-        </tr>
-      </table>
-      <div>
-        <span style="display: inline-block; padding: 3px 8px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 12px; margin-right: 5px;">React</span>
-        <span style="display: inline-block; padding: 3px 8px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 12px; margin-right: 5px;">D3.js</span>
-        <span style="display: inline-block; padding: 3px 8px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 12px;">Firebase</span>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="100%" style="padding: 16px; background: rgba(147, 112, 219, 0.1); border-radius: 8px; border-left: 4px solid #9370DB;">
-      <h3 style="margin-top: 0; color: #8A2BE2;">Lavender Notes</h3>
-      <p>A minimalist note-taking application designed for developers, with markdown support and a purple-themed interface that promotes focus and creativity.</p>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td>
-            <ul style="list-style-type: none; padding-left: 0;">
-              <li style="margin-bottom: 8px;">♪ Markdown with code syntax highlighting</li>
-              <li style="margin-bottom: 8px;">♪ Cloud sync with offline support</li>
-              <li style="margin-bottom: 8px;">♪ Customizable purple themes</li>
-            </ul>
-          </td>
-          <td align="right">
-            <img src="https://placeholder.svg?height=80&width=120&text=Preview" alt="Project Preview" style="border-radius: 4px; border: 1px solid #9370DB;"/>
-          </td>
-        </tr>
-      </table>
-      <div>
-        <span style="display: inline-block; padding: 3px 8px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 12px; margin-right: 5px;">Electron</span>
-        <span style="display: inline-block; padding: 3px 8px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 12px; margin-right: 5px;">TypeScript</span>
-        <span style="display: inline-block; padding: 3px 8px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 12px;">IndexedDB</span>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-<summary><b>🎚️ Experience: The Mixtape</b></summary>
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="25%" valign="top" style="padding-right: 15px;">
-      <h3 style="margin-top: 0; color: #9370DB;">2020 - Present</h3>
-      <p style="color: #8A2BE2; font-weight: bold;">Senior Developer</p>
-      <p style="font-style: italic;">Purple Pulse Studios</p>
-    </td>
-    <td width="75%" style="border-left: 2px solid #9370DB; padding-left: 15px;">
-      <p>Leading development of innovative web applications with a focus on user experience and performance optimization.</p>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li style="margin-bottom: 8px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">♪</span> Architected a scalable frontend framework used across multiple client projects
-        </li>
-        <li style="margin-bottom: 8px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">♪</span> Implemented CI/CD pipelines reducing deployment time by 70%
-        </li>
-        <li style="margin-bottom: 8px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">♪</span> Mentored junior developers through pair programming and code reviews
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div style="height: 20px; position: relative;">
-  <div style="position: absolute; left: 25%; top: 50%; width: 2px; height: 20px; background-color: #9370DB;"></div>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="25%" valign="top" style="padding-right: 15px;">
-      <h3 style="margin-top: 0; color: #9370DB;">2018 - 2020</h3>
-      <p style="color: #8A2BE2; font-weight: bold;">Frontend Developer</p>
-      <p style="font-style: italic;">Violet Ventures</p>
-    </td>
-    <td width="75%" style="border-left: 2px solid #9370DB; padding-left: 15px;">
-      <p>Developed responsive web applications and contributed to the company's design system.</p>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li style="margin-bottom: 8px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">♪</span> Built interactive dashboards using React and D3.js
-        </li>
-        <li style="margin-bottom: 8px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">♪</span> Optimized application performance, improving load times by 40%
-        </li>
-        <li style="margin-bottom: 8px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">♪</span> Collaborated with designers to implement pixel-perfect interfaces
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<br>
 
-<div style="height: 20px; position: relative;">
-  <div style="position: absolute; left: 25%; top: 50%; width: 2px; height: 20px; background-color: #9370DB;"></div>
+## 🌟 WHO'S THIS TECH ROCKSTAR? 🌟
+
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+Yo! I'm Ayyanaruto, digital maestro conducting symphonies of code! When I'm not:
+
+- 🔮 Transforming caffeine into cutting-edge applications
+- 🎭 Debugging like a code detective on a mission
+- 🎨 Crafting user experiences that make people go "WHOA!"
+- 🚀 Building the future one function at a time
+
+...I'm probably spinning vinyl records or hunting for the galaxy's best ramen. My code doesn't just run — it GROOVES.
+
+## 🧪 THE TECH POTION INGREDIENTS 🧪
+
+<div align="center">
+  
+  ### 🔥 FRONTEND FLAMEWORKS 🔥
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  ### 🧩 BACKEND BEATS 🧩
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  
+  ### 💾 DATABASE DISCO 💾
+  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  
+  ### 🛠️ DEV TOOLS DELIGHT 🛠️
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="25%" valign="top" style="padding-right: 15px;">
-      <h3 style="margin-top: 0; color: #9370DB;">2016 - 2018</h3>
-      <p style="color: #8A2BE2; font-weight: bold;">Junior Developer</p>
-      <p style="font-style: italic;">Lavender Labs</p>
-    </td>
-    <td width="75%" style="border-left: 2px solid #9370DB; padding-left: 15px;">
-      <p>Started my professional journey developing web applications and learning best practices.</p>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li style="margin-bottom: 8px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">♪</span> Developed and maintained client websites using JavaScript and PHP
-        </li>
-        <li style="margin-bottom: 8px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">♪</span> Implemented responsive designs ensuring cross-browser compatibility
-        </li>
-        <li style="margin-bottom: 8px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">♪</span> Participated in agile development processes and sprint planning
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 🏆 PROJECT SHOWCASE: DIGITAL FUNKYTOWN 🏆
 
-</details>
-
-<details>
-<summary><b>🌱 Learning & Goals: The Violet Garden</b></summary>
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="33%" valign="top" style="padding: 10px; background: rgba(147, 112, 219, 0.1); border-radius: 8px;">
-      <h3 style="margin-top: 0; color: #9370DB; text-align: center;">Currently Learning</h3>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">🌱</span> WebAssembly
-        </li>
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">🌿</span> Three.js for creative coding
-        </li>
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">🌱</span> Rust programming language
-        </li>
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">🌿</span> Advanced CSS animations
-        </li>
-      </ul>
-    </td>
-    <td width="33%" valign="top" style="padding: 10px; background: rgba(147, 112, 219, 0.1); border-radius: 8px; margin: 0 10px;">
-      <h3 style="margin-top: 0; color: #9370DB; text-align: center;">Reading List</h3>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">📚</span> "Clean Code" by Robert C. Martin
-        </li>
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">📖</span> "Designing Data-Intensive Applications"
-        </li>
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">📚</span> "Refactoring UI" by Adam Wathan
-        </li>
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">📖</span> "The Pragmatic Programmer"
-        </li>
-      </ul>
-    </td>
-    <td width="33%" valign="top" style="padding: 10px; background: rgba(147, 112, 219, 0.1); border-radius: 8px;">
-      <h3 style="margin-top: 0; color: #9370DB; text-align: center;">Future Goals</h3>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">🚀</span> Contribute to open source projects
-        </li>
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">🌠</span> Build a creative coding portfolio
-        </li>
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">🚀</span> Launch a developer community
-        </li>
-        <li style="margin-bottom: 12px; position: relative; padding-left: 20px;">
-          <span style="position: absolute; left: 0; top: 2px; color: #9370DB;">🌠</span> Speak at a tech conference
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-<summary><b>☕ Personal: The Lavender Break</b></summary>
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="60%" valign="top">
-      <blockquote style="border-left: 4px solid #9370DB; padding-left: 16px; margin-left: 0; color: #A28ACB;">
-        <p><em>"The best code is written between 1 and 4 AM, with lo-fi beats playing and a cup of lavender tea steaming nearby."</em></p>
-      </blockquote>
-      
-      <h3 style="color: #9370DB;">Current Playlist</h3>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background: rgba(147, 112, 219, 0.1); border-radius: 8px; padding: 10px;">
-        <tr>
-          <td width="30px" align="center">▶️</td>
-          <td>Twilight Code Session</td>
-          <td align="right">3:42</td>
-        </tr>
-        <tr>
-          <td width="30px" align="center">⏸️</td>
-          <td>Rainy Night Debugging</td>
-          <td align="right">4:17</td>
-        </tr>
-        <tr>
-          <td width="30px" align="center">⏸️</td>
-          <td>Midnight Refactoring</td>
-          <td align="right">2:55</td>
-        </tr>
-        <tr>
-          <td width="30px" align="center">⏸️</td>
-          <td>Purple Syntax Harmony</td>
-          <td align="right">5:23</td>
-        </tr>
-      </table>
-      
-      <h3 style="color: #9370DB;">Interests</h3>
-      <div>
-        <span style="display: inline-block; padding: 5px 10px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 14px; margin-right: 5px; margin-bottom: 5px;">Vinyl Collection</span>
-        <span style="display: inline-block; padding: 5px 10px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 14px; margin-right: 5px; margin-bottom: 5px;">Coffee Brewing</span>
-        <span style="display: inline-block; padding: 5px 10px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 14px; margin-right: 5px; margin-bottom: 5px;">Urban Sketching</span>
-        <span style="display: inline-block; padding: 5px 10px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 14px; margin-right: 5px; margin-bottom: 5px;">Film Photography</span>
-        <span style="display: inline-block; padding: 5px 10px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 14px; margin-right: 5px; margin-bottom: 5px;">Mechanical Keyboards</span>
-        <span style="display: inline-block; padding: 5px 10px; background: rgba(138, 43, 226, 0.2); border-radius: 4px; font-size: 14px; margin-right: 5px; margin-bottom: 5px;">Indie Game Dev</span>
-      </div>
-    </td>
-    <td width="40%" valign="top" align="center" style="padding-left: 20px;">
-      <div style="background: rgba(147, 112, 219, 0.1); border-radius: 8px; padding: 15px; text-align: center;">
-        <h3 style="color: #9370DB; margin-top: 0;">Coding Ambience</h3>
-        <div style="margin: 15px 0;">
-          <div style="display: inline-block; text-align: center; margin: 0 10px;">
-            <div style="width: 60px; height: 60px; border-radius: 50%; background: rgba(147, 112, 219, 0.3); display: flex; align-items: center; justify-content: center; margin: 0 auto;">🌧️</div>
-            <p style="margin: 5px 0 0; font-size: 12px;">Rain</p>
-          </div>
-          <div style="display: inline-block; text-align: center; margin: 0 10px;">
-            <div style="width: 60px; height: 60px; border-radius: 50%; background: rgba(147, 112, 219, 0.3); display: flex; align-items: center; justify-content: center; margin: 0 auto;">🎵</div>
-            <p style="margin: 5px 0 0; font-size: 12px;">Lo-Fi</p>
-          </div>
-          <div style="display: inline-block; text-align: center; margin: 0 10px;">
-            <div style="width: 60px; height: 60px; border-radius: 50%; background: rgba(147, 112, 219, 0.3); display: flex; align-items: center; justify-content: center; margin: 0 auto;">☕</div>
-            <p style="margin: 5px 0 0; font-size: 12px;">Coffee</p>
-          </div>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌈 COSMIC PROJECT #1</h3>
+        <div align="center">  
+          <a href="https://github.com/Ayyanaruto/project1" target="_blank">
+            <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Project 1" height="100%" />
+          </a>
+          <br>
+          <p>
+            <a href="https://github.com/Ayyanaruto/project1" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+            </a>
+            <a href="https://project1-demo.com" target="_blank">
+              <img src="https://img.shields.io/badge/DEMO-00C7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+            </a>
+          </p>
+          <p><strong>React, Redux, Firebase</strong> - A revolutionary app that transforms how users interact with digital content through AI-powered recommendations!</p>
         </div>
-        <p style="font-size: 14px; font-style: italic; margin-top: 15px;">The perfect environment for late-night coding sessions and creative problem-solving.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-<summary><b>📮 Contact: The Purple Mailbox</b></summary>
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="padding: 20px; background: rgba(147, 112, 219, 0.1); border-radius: 8px; text-align: center;">
-      <h3 style="color: #9370DB; margin-top: 0;">Let's Connect</h3>
-      <p>Feel free to reach out for collaborations or just to share your favorite lo-fi playlist.</p>
-      
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width: 400px; margin: 0 auto;">
-        <tr>
-          <td align="center" style="padding: 10px;">
-            <a href="mailto:email@example.com" style="text-decoration: none; color: #8A2BE2;">
-              <div style="width: 50px; height: 50px; border-radius: 50%; background: rgba(147, 112, 219, 0.2); display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-                ✉️
-              </div>
-              <p style="margin: 5px 0 0; font-size: 14px;">Email</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🔮 ELECTRIC PROJECT #2</h3>
+        <div align="center">  
+          <a href="https://github.com/Ayyanaruto/project2" target="_blank">
+            <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Project 2" height="100%" />
+          </a>
+          <br>
+          <p>
+            <a href="https://github.com/Ayyanaruto/project2" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
             </a>
-          </td>
-          <td align="center" style="padding: 10px;">
-            <a href="https://github.com/username" style="text-decoration: none; color: #8A2BE2;">
-              <div style="width: 50px; height: 50px; border-radius: 50%; background: rgba(147, 112, 219, 0.2); display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-                <svg height="24" width="24" viewBox="0 0 16 16" version="1.1">
-                  <path fill="#8A2BE2" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
-                </svg>
-              </div>
-              <p style="margin: 5px 0 0; font-size: 14px;">GitHub</p>
+            <a href="https://project2-demo.com" target="_blank">
+              <img src="https://img.shields.io/badge/DEMO-00C7FF?style=for-the-badge&logo=vercel&logoColor=black" />
             </a>
-          </td>
-          <td align="center" style="padding: 10px;">
-            <a href="https://twitter.com/username" style="text-decoration: none; color: #8A2BE2;">
-              <div style="width: 50px; height: 50px; border-radius: 50%; background: rgba(147, 112, 219, 0.2); display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-                <svg height="24" width="24" viewBox="0 0 24 24">
-                  <path fill="#8A2BE2" d="M23.643 4.937c-.835.37-1.732.62-2.675.733.962-.576 1.7-1.49 2.048-2.578-.9.534-1.897.922-2.958 1.13-.85-.904-2.06-1.47-3.4-1.47-2.572 0-4.658 2.086-4.658 4.66 0 .364.042.718.12 1.06-3.873-.195-7.304-2.05-9.602-4.868-.4.69-.63 1.49-.63 2.342 0 1.616.823 3.043 2.072 3.878-.764-.025-1.482-.234-2.11-.583v.06c0 2.257 1.605 4.14 3.737 4.568-.392.106-.803.162-1.227.162-.3 0-.593-.028-.877-.082.593 1.85 2.313 3.198 4.352 3.234-1.595 1.25-3.604 1.995-5.786 1.995-.376 0-.747-.022-1.112-.065 2.062 1.323 4.51 2.093 7.14 2.093 8.57 0 13.255-7.098 13.255-13.254 0-.2-.005-.402-.014-.602.91-.658 1.7-1.477 2.323-2.41z"></path>
-                </svg>
-              </div>
-              <p style="margin: 5px 0 0; font-size: 14px;">Twitter</p>
+          </p>
+          <p><strong>Next.js, TypeScript, MongoDB</strong> - Full-stack platform enabling seamless collaboration across creative teams worldwide!</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎭 NEON PROJECT #3</h3>
+        <div align="center">  
+          <a href="https://github.com/Ayyanaruto/project3" target="_blank">
+            <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Project 3" height="100%" />
+          </a>
+          <br>
+          <p>
+            <a href="https://github.com/Ayyanaruto/project3" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
             </a>
-          </td>
-          <td align="center" style="padding: 10px;">
-            <a href="https://linkedin.com/in/username" style="text-decoration: none; color: #8A2BE2;">
-              <div style="width: 50px; height: 50px; border-radius: 50%; background: rgba(147, 112, 219, 0.2); display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-                <svg height="24" width="24" viewBox="0 0 24 24">
-                  <path fill="#8A2BE2" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"></path>
-                </svg>
-              </div>
-              <p style="margin: 5px 0 0; font-size: 14px;">LinkedIn</p>
+            <a href="https://project3-demo.com" target="_blank">
+              <img src="https://img.shields.io/badge/DEMO-00C7FF?style=for-the-badge&logo=vercel&logoColor=black" />
             </a>
-          </td>
-        </tr>
-      </table>
-      
-      <div style="margin-top: 20px; padding: 15px; background: rgba(147, 112, 219, 0.2); border-radius: 8px; display: inline-block;">
-        <p style="margin: 0; font-style: italic;">Currently vibing to lo-fi beats and open to new opportunities</p>
-      </div>
-    </td>
-  </tr>
-</table>
+          </p>
+          <p><strong>Python, Django, PostgreSQL</strong> - Data analytics platform that visualizes complex datasets in mind-bending interactive 3D models!</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚡ RETRO PROJECT #4</h3>
+        <div align="center">  
+          <a href="https://github.com/Ayyanaruto/project4" target="_blank">
+            <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" alt="Project 4" height="100%" />
+          </a>
+          <br>
+          <p>
+            <a href="https://github.com/Ayyanaruto/project4" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+            </a>
+            <a href="https://project4-demo.com" target="_blank">
+              <img src="https://img.shields.io/badge/DEMO-00C7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+            </a>
+          </p>
+          <p><strong>MERN Stack, AWS</strong> - Cloud-native e-commerce platform with real-time inventory management and personalized shopping experiences!</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-</details>
-
-<details>
-<summary><b>📊 GitHub Stats: Amethyst Analytics</b></summary>
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
-      <img src="https://placeholder.svg?height=180&width=400&text=GitHub+Stats" alt="GitHub Stats" style="border-radius: 6px; border: 1px solid #9370DB;"/>
-      <br><br>
-      <img src="https://placeholder.svg?height=180&width=400&text=Most+Used+Languages" alt="Most Used Languages" style="border-radius: 6px; border: 1px solid #9370DB;"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="padding: 10px; background: rgba(147, 112, 219, 0.1); border-radius: 8px;">
-      <h3 style="color: #9370DB; margin-top: 0;">Contribution Graph</h3>
-      <img src="https://placeholder.svg?height=100&width=600&text=Contribution+Calendar" alt="Contribution Calendar" style="border-radius: 6px; border: 1px solid #9370DB; max-width: 100%;"/>
-      <p style="font-style: italic; margin-top: 10px;">Coding to the rhythm of lo-fi beats, one commit at a time.</p>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<br>
+## 📊 GITHUB STATS: THE FUNKOMETER 📊
 
 <div align="center">
-  <img src="https://placeholder.svg?height=4&width=500&text=" alt="" style="background: linear-gradient(to right, rgba(147, 112, 219, 0), rgba(147, 112, 219, 0.7), rgba(147, 112, 219, 0));"/>
-  <br><br>
-  <p style="color: #A28ACB; font-style: italic;">This README was crafted with 💜 while listening to lo-fi beats at 3 AM</p>
-  <p style="color: #9370DB; font-size: 12px;">Last updated: May 2025</p>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ayyanaruto&show_icons=true&count_private=true&theme=radical" alt="Ayyanaruto's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyanaruto&layout=compact&theme=radical" />
+  <br/>
+  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=Ayyanaruto&theme=radical&row=2&column=4&margin-h=15&margin-w=5&no-bg=false" alt="Trophy" />
 </div>
+
+## 🎯 FUTURE FUNK MISSIONS 🎯
+
+<img align="right" height="220px" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" />
+
+- 🚀 Launch a tech startup that disrupts traditional industry norms
+- 🌍 Contribute to open-source projects that make a real-world difference
+- 🔬 Master emerging technologies like blockchain and quantum computing
+- 📚 Mentor the next generation of tech innovators
+- 🎤 Speak at major tech conferences on cutting-edge development
+- 🎮 Create a viral app that brings joy to millions
+
+## 💫 FUN FACTS FROM THE FOURTH DIMENSION 💫
+
+- 🎸 I can play guitar while solving algorithm problems (multitasking at its finest!)
+- 🌶️ I've eaten the world's hottest pepper while debugging a particularly stubborn bug
+- 🧩 I collect vintage puzzle boxes and have solved over 200 of them
+- 🌌 I once stayed up for 36 hours straight building a star-mapping algorithm
+- 🎭 Amateur improv performer - turns out thinking on your feet helps with live coding demos!
+
+## 📫 BEAM A MESSAGE TO MY MOTHERSHIP 📫
+
+<div align="center">
+  
+  [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/yourusername)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourusername)
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  
+  ### 🎵 Currently vibing to: 🎵
+  
+  [![Spotify](https://spotify-now-playing-bay.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+  
+</div>
+
+<div align="center">
+  
+  *"Code so good it makes even the compiler dance!"*
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Ayyanaruto/count.svg)
+  
+</div>
+
+<!--
+Credits:
+- Animated typing: https://readme-typing-svg.demolab.com/
+- GitHub Stats: https://github.com/anuraghazra/github-readme-stats
+- Shields/Badges: https://shields.io/
+- GitHub Profile Trophy: https://github.com/ryo-ma/github-profile-trophy
+- GIFs: https://giphy.com/
+-->
