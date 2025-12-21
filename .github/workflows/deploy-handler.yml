@@ -7,13 +7,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout PR Branch
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT_TOKEN }}
-          repository: ${{ github.event.client_payload.slash_command.args.named.repository }}
-          ref: refs/pull/${{ github.event.client_payload.slash_command.args.named.pr_number }}/head
-
-      - name: Run Deploy
+      # 👇 ADD THIS DEBUG STEP
+      - name: 🔍 Debug Payload
         run: |
-          echo "Deploying branch from PR #${{ github.event.client_payload.slash_command.args.named.pr_number }}"
+          echo "Checking what data was sent..."
+          echo "PR Number: '${{ github.event.client_payload.slash_command.args.named.pr_number }}'"
+          echo "Repository: '${{ github.event.client_payload.slash_command.args.named.repository }}'"
+          
+          echo "--- FULL PAYLOAD JSON ---"
+          echo '${{ toJson(github.event.client_payload) }}'
