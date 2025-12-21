@@ -1,6 +1,6 @@
 name: Deploy Handler
-run-name: Deploy Branch from PR
-description: Deploys a branch from a pull request to the target machine.
+run-name: Deploy Branch from PR #${{ github.event.client_payload.pull_request.number }}
+
 on:
   repository_dispatch:
     types: [deploy-command]
@@ -15,14 +15,68 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
           repository: ${{ github.event.client_payload.repository.full_name }}
           ref: refs/pull/${{ github.event.client_payload.pull_request.number }}/head
-      - name: Extract Flags
-        env:
-          MACHINE_NAME: ${{ github.event.client_payload.slash_command.args.named.machine }}
-          API_KEY: ${{ github.event.client_payload.slash_command.args.named.api }}
+
+      - name: Extract Flags & Configure
+        id: config
         run: |
-          echo "Machine Name: $MACHINE_NAME"
-          echo "API Key: $API_KEY"
-      - name: Run Deploy
+          # 1. Capture Inputs safely
+          MACHINE_NAME="${{ github.event.client_payload.slash_command.args.named.machine }}"
+          API_KEY="${{ github.event.client_payload.slash_command.args.named.api }}"
+
+          echo "Received -> Machine: $MACHINE_NAME | API: $API_KEY"
+
+          # 2. Determine Directory (NO SPACES around =)
+          case "$MACHINE_NAME" in
+            "cygnus")
+              DIR="/var/www/html/cygnusmatrix"
+              ;;
+            "dev")
+              DIR="/var/www/html/devmatrix"
+              ;;
+            "skyress")
+              DIR="/var/www/html/skyressmatrix"
+              ;;
+            "shadow")
+              DIR="/var/www/html/shadowmatrix"
+              ;;
+            *)
+              echo "⚠️ Unknown machine '$MACHINE_NAME', defaulting to devmatrix"
+              DIR="/var/www/html/devmatrix"
+              ;;
+          esac
+
+          # 3. Determine API URL
+          case "$API_KEY" in
+            "kasukabe")
+              URL="https://kasukabeapi.grexa.ai"
+              ;;
+            "dev")
+              URL="https://devapi.grexa.ai"
+              ;;
+            "tokyo")
+              URL="https://tokyoapi.grexa.ai"
+              ;;
+            "amsterdam")
+              URL="https://amsterdamapi.grexa.ai"
+              ;;
+            "dholakpur")
+              URL="https://dholakpurapi.grexa.ai"
+              ;;
+            "bangkok")
+              URL="https://bangkokapi.grexa.ai"
+              ;;
+            *)
+              echo "⚠️ Unknown API '$API_KEY', defaulting to devapi"
+              URL="https://devapi.grexa.ai"
+              ;;
+          esac
+
+          echo "TARGET_DIR=$DIR" >> $GITHUB_ENV
+          echo "VITE_BASE_URL=$URL" >> $GITHUB_ENV
+          echo "MACHINE_NAME=$MACHINE_NAME" >> $GITHUB_ENV
+
+      - name: Verify Deployment Config
         run: |
-          echo "✅ Successfully checked out PR #${{ github.event.client_payload.pull_request.number }}"
-          echo "Target Machine: $MACHINE_NAME"
+          echo "🚀 Ready to Deploy!"
+          echo "📂 Target Directory: ${{ env.TARGET_DIR }}"
+          echo "🔗 API Connection: ${{ env.VITE_BASE_URL }}"
