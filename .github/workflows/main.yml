@@ -1,22 +1,20 @@
-name: Slash Command Dispatch
+name: Dispatcher
 on:
   issue_comment:
     types: [created]
 
 jobs:
   slashCommandDispatch:
-    if: startsWith(github.event.comment.body, '/deploy')
+    if: github.event.issue.pull_request && startsWith(github.event.comment.body, '/deploy')
     runs-on: ubuntu-latest
     steps:
       - name: Slash Command Dispatch
-        uses: peter-evans/slash-command-dispatch@v5
+        uses: peter-evans/slash-command-dispatch@v4
         with:
           token: ${{ secrets.PAT_TOKEN }}
           commands: deploy
           permission: write
-          issue-type: pull-request
-          reactions: hooray
-          dispatch-type: workflow
+          reactions: true
           static_args: |
             repository=${{ github.repository }}
             pr_number=${{ github.event.issue.number }}
