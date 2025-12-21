@@ -1,4 +1,5 @@
 name: Dispatcher
+run-name: Dispatch Deploy Command to the Deploy Handler
 on:
   issue_comment:
     types: [created]
@@ -14,7 +15,5 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
           commands: deploy
           permission: write
+          issue-type: pull-request
           reactions: true
-          static_args: |
-            repository=${{ github.repository }}
-            pr_number=${{ github.event.issue.number }}
