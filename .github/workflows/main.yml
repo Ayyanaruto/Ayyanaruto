@@ -5,14 +5,18 @@ on:
 
 jobs:
   slashCommandDispatch:
-    if: github.event.issue.pull_request && startsWith(github.event.comment.body, '/deploy')
+    if: startsWith(github.event.comment.body, '/deploy')
     runs-on: ubuntu-latest
     steps:
       - name: Slash Command Dispatch
-        uses: peter-evans/slash-command-dispatch@v4
+        uses: peter-evans/slash-command-dispatch@v5
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.PAT }}
           commands: deploy
           permission: write
           issue-type: pull-request
-          reactions: true
+          reactions: hooray
+          dispatch-type: workflow
+          static_args: |
+            repository=${{ github.repository }}
+            pr_number=${{ github.event.issue.number }}
