@@ -5,7 +5,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&pause=1000&color=A9A5FF&center=true&width=450&lines=Welcome+to+My+Github+Profile;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
 <br>
 
-[![An image of @ayyanaruto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayyanaruto)](https://holopin.io/@ayyanaruto)
+[![ayyanaruto — Overview (always included)](https://yolio.dev/api/embed/ayyanaruto/overview.svg?theme=dark)](https://yolio.dev/u/ayyanaruto) <span>.  </span> [![ayyanaruto — Top repos](https://yolio.dev/api/embed/ayyanaruto/top-repos.svg?theme=dark)](https://yolio.dev/u/ayyanaruto)
+
+[![ayyanaruto — Score card](https://yolio.dev/api/embed/ayyanaruto/score.svg?theme=dark)](https://yolio.dev/u/ayyanaruto) <span>  </span> [![ayyanaruto — Top contributions](https://yolio.dev/api/embed/ayyanaruto/top-contributions.svg?theme=dark)](https://yolio.dev/u/ayyanaruto)
 
 	
 ## <picture><img src ="https://github.com/Ayyanaruto/Ayyanaruto/blob/ee556c177c9ae3adb9d8a03a471091e746c3bcbd/about_me.gif" width = 50px></picture> **About me**
